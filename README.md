@@ -4,7 +4,7 @@
 This repository contains a series of presentations focusing on risk management at Tesla. The presentations detail various aspects of Tesla as a company, identify risk factors, measure risk, and analyze potential returns or losses from selected risk variables.
 
 ## Presentation 0: Introduction to Tesla 
-- `Presentation_0_of_the_Tesla_company.pdf`
+ `Presentation_0_of_the_Tesla_company.pdf`
   
 This presentation provides an overview of Tesla, covering:
 - Industry and type of business.
@@ -14,7 +14,7 @@ This presentation provides an overview of Tesla, covering:
 - Required data and potential sources.
 
 ## Presentation 1: Risk Identification at Tesla 
-- `Presentation_1_risk_identification.pdf`
+ `Presentation_1_risk_identification.pdf`
   
 This presentation includes:
 1. Identification of risk sources/factors.
@@ -29,7 +29,7 @@ This presentation includes:
 4. Development of a risk assessment questionnaire for a selected area.
 
 ## Presentation 2: Risk Measurement
-- `Presentation_2_determining_the_risk_measure_for_selected_risk_variables.pdf`. Associated script: `SCRIPT_presentation_2.ipynb`
+`Presentation_2_determining_the_risk_measure_for_selected_risk_variables.pdf`. Associated script: `SCRIPT_presentation_2.ipynb` with data from `USD_EUR.csv` and `USD_CNY.csv`. Written in Python.
   
 Measuring risk for two selected variables: USD/EUR and USD/CNY exchange rates.
 1. Univariate analysis:
@@ -59,6 +59,4 @@ Measuring risk for two selected variables: USD/EUR and USD/CNY exchange rates.
 ## Tools Used
 - **Python language**
 
-**Libraries**: numpy, scipy, matplotlib.pyplot, pandas, statsmodels
-
-
+**Libraries**: pandas, matplotlib.pyplot, numpy, statsmodels, scipy, csv, seaborn
