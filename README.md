@@ -3,7 +3,7 @@
 ## Project Description
 This repository contains a series of presentations focusing on risk management at Tesla. The presentations detail various aspects of Tesla as a company, identify risk factors, measure risk, and analyze potential returns or losses from selected risk variables.
 
-## Presentation 0: Introduction to Tesla
+## Presentation 0: Introduction to Tesla (`Presentation_0_of_the_Tesla_company.pdf`)
 This presentation provides an overview of Tesla, covering:
 - Industry and type of business.
 - Company structure.
@@ -11,7 +11,7 @@ This presentation provides an overview of Tesla, covering:
 - Markets in which Tesla operates, including partners, clients, and competitors.
 - Required data and potential sources.
 
-## Presentation 1: Risk Identification at Tesla
+## Presentation 1: Risk Identification at Tesla (`Presentation_1_risk_identification.pdf`)
 This presentation includes:
 1. Identification of risk sources/factors.
 2. Creation of a risk register (`Register_Tesla.png`):
@@ -24,7 +24,7 @@ This presentation includes:
 3. Development of a risk map and risk hierarchy.
 4. Development of a risk assessment questionnaire for a selected area.
 
-## Presentation 2: Risk Measurement
+## Presentation 2: Risk Measurement (`Presentation_2_determining_the_risk_measure_for_selected_risk_variables.pdf`)
 Measuring risk for two selected variables: USD/EUR and USD/CNY exchange rates.
 1. Univariate analysis:
    - Variability measures.
