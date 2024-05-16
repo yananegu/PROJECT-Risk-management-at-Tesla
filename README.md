@@ -46,17 +46,18 @@ Measuring risk for two selected variables: USD/EUR and USD/CNY exchange rates.
 4. Backtesting for selected risk variables.
    
 
-## Presentation 3: Losses/Returns from Selected Risk Variables
+## Presentation 3: Value at risk calculations
+`Presentation_3_Value_at_risk.pdf`. Associated script: `SCRIPT_presentation_3.ipynb` with data from `USD_EUR.csv`.
 1. Calculations of VaR95% and VaR99%:
-   - Parametric method with a chosen distribution.
-   - Historical method:
+   a) Parametric method with T-student distribution.
+   b) Historical method:
      - Standard.
      - Weighted.
      - Using GARCH filtering.
-   - Monte Carlo method with a chosen distribution/process.
+    c) Monte Carlo method with T-student distribution
 2. Backtesting the selected methods from 1a), 1b), 1c).
 
 ## Tools Used
 - **Python language**
 
-**Libraries**: pandas, matplotlib.pyplot, numpy, statsmodels, scipy, csv, seaborn
+**Libraries**: pandas, matplotlib.pyplot, numpy, statsmodels, scipy, csv, seaborn, arch
