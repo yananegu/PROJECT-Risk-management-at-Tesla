@@ -49,13 +49,16 @@ Measuring risk for two selected variables: USD/EUR and USD/CNY exchange rates.
 ## Presentation 3: Value at risk calculations
 `Presentation_3_Value_at_risk.pdf`. Associated script: `SCRIPT_presentation_3.ipynb` with data from `USD_EUR.csv`.
 1. Calculations of VaR95% and VaR99%:
+
    a) Parametric method with T-student distribution.
+
    b) Historical method:
      - Standard.
      - Weighted.
      - Using GARCH filtering.
-    c) Monte Carlo method with T-student distribution
-2. Backtesting the selected methods from 1a), 1b), 1c).
+   
+   c) Monte Carlo method with T-student distribution
+3. Backtesting the selected methods from 1a), 1b), 1c).
 
 ## Tools Used
 - **Python language**
