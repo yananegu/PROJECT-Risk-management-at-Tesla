@@ -60,6 +60,14 @@ Measuring risk for two selected variables: USD/EUR and USD/CNY exchange rates.
    c) Monte Carlo method with T-student distribution
 3. Backtesting the selected methods from 1a), 1b), 1c).
 
+## Presentation 4: Risk hedging strategy
+`Presentation_4_Risk_hedging_strategy.pdf`. Associated script: `SCRIPT_presentation_4.ipynb`.
+
+1. Risk hedging strategy for risk variables using real derivatives. VaR calculation for this strategy.
+
+2. Estimation of default probability in KMV model for two selected counterparties of the company.
+
+   
 ## Tools Used
 - **Python language**
 
